@@ -1,0 +1,6 @@
+node_modules/
+.env
+data/
+public/media/*
+!public/media/.gitkeep
+*.log
